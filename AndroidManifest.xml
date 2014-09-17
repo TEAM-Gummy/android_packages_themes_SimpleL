@@ -16,14 +16,14 @@
 -->
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="org.gummy.L.Status.Nav">
+    package="org.gummy.Simple.L">
 
-    <uses-feature android:required="true" android:name="org.gummy.L.Status.Nav" />
+    <uses-feature android:required="true" android:name="org.gummy.Simple.L" />
 
-    <application android:hasCode="false" android:icon="@drawable/ic_launcher" android:label="L Status Nav">
+    <application android:hasCode="false" android:icon="@drawable/ic_launcher" android:label="Simple L">
     </application>
 
-    <meta-data android:name="org.cyanogenmod.theme.name" android:value="L Status Nav"/>
+    <meta-data android:name="org.cyanogenmod.theme.name" android:value="Simple L"/>
     <meta-data android:name="org.cyanogenmod.theme.author" android:value="kejar31" />
 
 </manifest>
